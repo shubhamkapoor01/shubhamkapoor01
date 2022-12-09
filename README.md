@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Shubham Kapoor
-- 👀 I’m interested in Full Stack Engineering
+- 👀 I’m interested in Full Stack Development
 - 🌱 I’m currently learning Django
 - 💞️ I’m looking to collaborate on Interesting Projects
 
