@@ -16,7 +16,7 @@ GitHub Stats
 
 [![Shubham's GitHub stats](https://github-readme-stats.vercel.app/api?username=shubhamkapoor01&show_icons=true&include_all_commits=true&count_private=true&hide=html,css&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34)](https://github.com/shubhamkapoor01)
 
-[![Shubham's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shubhamkapoor01&layout=compact&langs_count=10&hide=html,css,jupyter_notebook&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34)](https://github.com/shubhamkapoor01)
+[![Shubham's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shubhamkapoor01&layout=compact&langs_count=10&hide=html,css,jupyter-notebook&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34)](https://github.com/shubhamkapoor01)
 
 ## 💼 Skills and Tech Stack I work with:
 
