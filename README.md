@@ -16,7 +16,7 @@ GitHub Stats
 
 [![Shubham's GitHub stats](https://github-readme-stats.vercel.app/api?username=shubhamkapoor01&show_icons=true&include_all_commits=true&count_private=true&hide=html,css&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34)](https://github.com/shubhamkapoor01)
 
-[![Shubham's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shubhamkapoor01&layout=compact&langs_count=10&hide=html,css,jupyter_notebook&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34)](https://github.com/shubhamkapoor01)
+[![Shubham's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shubhamkapoor01&langs_count=10&hide=html,css,jupyter notebook&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34)](https://github.com/shubhamkapoor01)
 
 ## 💼 Skills and Tech Stack I work with:
 
@@ -24,7 +24,6 @@ GitHub Stats
 ![](https://img.shields.io/badge/Code-CSS3-informational?style=flat&logo=css3&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Code-React-informational?style=flat&logo=react&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Code-Redux-informational?style=flat&logo=Redux&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Code-Gatsby-informational?style=flat&logo=gatsby&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Code-Next.js-informational?style=flat&logo=next.js&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=JavaScript&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Code-TypeScript-informational?style=flat&logo=TypeScript&logoColor=white&color=4AB197)
@@ -46,13 +45,10 @@ GitHub Stats
 ![](https://img.shields.io/badge/Code-Kubernetes-informational?style=flat&logo=kubernetes&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Code-Firebase-informational?style=flat&logo=firebase&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Code-AWS-informational?style=flat&logo=amazon&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Code-TravisCI-informational?style=flat&logo=travisci&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Code-CircleCI-informational?style=flat&logo=circleci&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Code-Git-informational?style=flat&logo=git&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Code-GitHub-informational?style=flat&logo=github&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Code-Heroku-informational?style=flat&logo=heroku&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Code-Netlify-informational?style=flat&logo=netlify&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Code-Vercel-informational?style=flat&logo=vercel&logoColor=white&color=4AB197)
 
 
 ## Areas of Interest 
