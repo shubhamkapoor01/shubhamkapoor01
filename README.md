@@ -12,11 +12,11 @@ I'm **Shubham Kapoor**, a Full Stack Developer.
 
 GitHub Stats
 ------------
-[![Shubham's GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=shubhamkapoor01&theme=tokyonight)](https://github.com/shubhamkapoor01)
+[![Shubham's GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=shubhamkapoor01&theme=radical)](https://github.com/shubhamkapoor01)
 
-[![Shubham's GitHub stats](https://github-readme-stats.vercel.app/api?username=shubhamkapoor01&show_icons=true&include_all_commits=true&count_private=true&hide=html,css&theme=tokyonight)](https://github.com/shubhamkapoor01)
+[![Shubham's GitHub stats](https://github-readme-stats.vercel.app/api?username=shubhamkapoor01&show_icons=true&include_all_commits=true&count_private=true&hide=html,css&theme=radical)](https://github.com/shubhamkapoor01)
 
-[![Shubham's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shubhamkapoor01&layout=compact&hide_progress=true&langs_count=10&theme=tokyonight)](https://github.com/shubhamkapoor01)
+[![Shubham's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shubhamkapoor01&layout=compact&hide_progress=true&langs_count=10&theme=radical)](https://github.com/shubhamkapoor01)
 
 ## 💼 Skills and Tech Stack I work with:
 
