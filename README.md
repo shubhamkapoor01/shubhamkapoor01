@@ -12,11 +12,11 @@ I'm **Shubham Kapoor**, a Full Stack Developer.
 
 GitHub Stats
 ------------
-[![Shubham's GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=saalikmubeen&theme=tokyonight)](https://github.com/saalikmubeen)
+[![Shubham's GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=shubhamkapoor01&theme=tokyonight)](https://github.com/shubhamkapoor01)
 
-[![Shubham's GitHub stats](https://github-readme-stats.vercel.app/api?username=saalikmubeen&show_icons=true&include_all_commits=true&count_private=true&hide=html,css&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34)](https://github.com/shubhamkapoor01)
+[![Shubham's GitHub stats](https://github-readme-stats.vercel.app/api?username=shubhamkapoor01&show_icons=true&include_all_commits=true&count_private=true&hide=html,css&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34)](https://github.com/shubhamkapoor01)
 
-[![Shubham's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=saalikmubeen&layout=compact&langs_count=6&hide=html,css&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34)](https://github.com/shubhamkapoor01)
+[![Shubham's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shubhamkapoor01&layout=compact&langs_count=6&hide=html,css&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34)](https://github.com/shubhamkapoor01)
 
 ## 💼 Skills and Tech Stack I work with:
 
