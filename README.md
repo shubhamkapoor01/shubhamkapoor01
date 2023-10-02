@@ -5,7 +5,7 @@ I'm a Full Stack Developer.
 I have a passion for Software Development with a diverse skillset ranging from the MERN stack, Django, Web3.0 and Deep Learning to a stronghold on data structures and algorithms. What I might lack in skills I make up for with my determination to learn.
 
 I'm Constantly looking for new challenges.
-Currently learning how to build low latency backends using Rust.
+Currently learning how to build low latency backends using C++.
 
 
 
